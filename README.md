@@ -1,4 +1,4 @@
-# 👆 Tap Challenge - Mobile Reaction Game
+# Tap Challenge - Mobile Reaction Game
 
 A fast-paced, addictive tapping game where your reflexes determine your score! Tap as many times as you can within 10 seconds. Built with pure HTML/CSS/JavaScript - no dependencies required.
 
