@@ -80,7 +80,7 @@ tap-challenge/
 └── LICENSE             # MIT License
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Modify Game Duration
 ```javascript
