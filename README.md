@@ -26,10 +26,6 @@ A fast-paced, addictive tapping game where your reflexes determine your score! T
 
 ## 📱 Play Now
 
-You can play the game immediately in your browser:
-
-**🌐 [Play Tap Challenge](https://your-username.github.io/tap-challenge)** *(replace with your actual GitHub Pages link)*
-
 Or run locally:
 ```bash
 git clone https://github.com/your-username/tap-challenge.git
@@ -37,7 +33,7 @@ cd tap-challenge
 open index.html
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option 1: VS Code with Live Server (Recommended)
 
