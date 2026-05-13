@@ -7,7 +7,7 @@ A fast-paced, addictive tapping game where your reflexes determine your score! T
 ![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🎮 Game Features
+##  Game Features
 
 - **10-Second Timer** - Race against the clock
 - **Real-time Score Tracking** - Watch your score grow with every tap
