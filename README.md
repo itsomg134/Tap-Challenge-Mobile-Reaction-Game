@@ -133,11 +133,7 @@ if (score > 50) {
 - [ ] Daily challenges
 - [ ] Customizable themes
 
-## 🐛 Known Issues
-
-None currently! If you find a bug, please [open an issue](https://github.com/your-username/tap-challenge/issues).
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -147,15 +143,26 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by classic reaction time games
 - Icons and design influenced by modern mobile gaming UI
 - Special thanks to all beta testers
 
-## 📧 Contact
+##  Contact
 
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
