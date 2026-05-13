@@ -102,15 +102,15 @@ if (score > 50) {
 }
 ```
 
-## 📱 Mobile Compatibility
+## Mobile Compatibility
 
 | Browser | Version | Status |
 |---------|---------|--------|
-| Chrome | 90+ | ✅ Perfect |
-| Safari | 14+ | ✅ Perfect |
-| Firefox | 88+ | ✅ Perfect |
-| Edge | 90+ | ✅ Perfect |
-| Samsung Internet | 13+ | ✅ Perfect |
+| Chrome | 90+ |  Perfect |
+| Safari | 14+ |  Perfect |
+| Firefox | 88+|  Perfect |
+| Edge | 90+   |  Perfect |
+| Samsung Internet | 13+ |  Perfect |
 
 ## 🔧 Performance Optimizations
 
