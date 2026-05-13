@@ -112,15 +112,15 @@ if (score > 50) {
 | Edge | 90+   |  Perfect |
 | Samsung Internet | 13+ |  Perfect |
 
-## 🔧 Performance Optimizations
+## Performance Optimizations
 
-- ✅ Touch event handling with `preventDefault()` for smooth scrolling
-- ✅ CSS `transform` animations for 60fps performance  
-- ✅ Hardware-accelerated animations
-- ✅ No memory leaks with proper interval cleanup
-- ✅ Optimized for low-end devices
+- Touch event handling with `preventDefault()` for smooth scrolling
+- CSS `transform` animations for 60fps performance  
+- Hardware-accelerated animations
+- No memory leaks with proper interval cleanup
+- Optimized for low-end devices
 
-## 🌟 Future Enhancements
+## Future Enhancements
 
 - [ ] High score tracking with localStorage
 - [ ] Progressive difficulty levels
