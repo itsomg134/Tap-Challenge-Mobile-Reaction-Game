@@ -17,7 +17,7 @@ A fast-paced, addictive tapping game where your reflexes determine your score! T
 - **Instant Restart** - One-tap to play again
 - **Zero Dependencies** - Pure vanilla JavaScript
 
-## 🎯 How to Play
+## How to Play
 
 1. Tap the colored area to start the game
 2. Tap as fast as you can within 10 seconds
