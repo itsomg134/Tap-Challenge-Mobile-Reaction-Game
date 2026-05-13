@@ -63,14 +63,14 @@ npx serve .
 
 Simply double-click `index.html` to open in your default browser.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** - Structure and semantic markup
 - **CSS3** - Animations, gradients, and responsive design
 - **Vanilla JavaScript** - Game logic and event handling
 - **No Frameworks** - Pure, lightweight code (~5KB total)
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 tap-challenge/
