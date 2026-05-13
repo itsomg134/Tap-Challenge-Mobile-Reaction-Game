@@ -2,7 +2,7 @@
 
 A fast-paced, addictive tapping game where your reflexes determine your score! Tap as many times as you can within 10 seconds. Built with pure HTML/CSS/JavaScript - no dependencies required.
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Tap+Challenge+Game+Screenshot)
+<img width="482" height="740" alt="Screenshot_13-5-2026_23130_127 0 0 1" src="https://github.com/user-attachments/assets/52d5a507-8985-472a-9b62-ad8c128b0a4d" />
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
